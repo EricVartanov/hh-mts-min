@@ -145,6 +145,7 @@ svg {
     margin-top: 50px;
 }
 .idc-else .idc-text {
+    margin: 0 auto;
     width: 503px;
     margin-top: 50px;
 }
